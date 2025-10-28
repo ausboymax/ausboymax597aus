@@ -1,4 +1,4 @@
-@ausboymax597# World Republic Smart Contracts Repository
+ausboymax597.World Republic Smart Contracts Repository
 
 This repository serves as a reference for the World Republic smart contracts. It contains:
 
